@@ -105,6 +105,10 @@ h1:hover {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.list > ul{
+    font-size: 14px;
+}
+
 .list > ul li:hover {
     background-color: rgb(74, 134, 190);
     color: #fff;
@@ -226,4 +230,5 @@ h1:hover {
         width: 90%;
     }
 }
+
 
